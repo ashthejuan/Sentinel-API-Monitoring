@@ -1,0 +1,4 @@
+redis
+influxdb-client
+requests
+python-dotenv

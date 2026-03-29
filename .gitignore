@@ -1,0 +1,13 @@
+.env
+.env.local
+.env.*.local
+
+# IDE and editor directories
+.cursor/
+.agents/
+.vscode/
+
+# Documentation files
+dashboard-design-system.md
+prd.md
+ui.md
